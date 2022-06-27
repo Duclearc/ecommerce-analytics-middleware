@@ -5,7 +5,7 @@
 # internal documentation from hackathon
 https://lemundo.atlassian.net/wiki/spaces/DT/pages/2011758615/Ecommerce+Analytics
 
-# example data
+# example data gathered
 ```
 {"ga_users":"5327","ga_newusers":"4427","ga_sessions":"6229","orders_number":"32","items_ordered":"49","items_per_order":1.53125,"average_order_value":"45.43468750","revenue_month":"679.3900","revenue_year":"1453.9100","revenue_all_time":"1453.9100","data_source":"magento","created_at":"2021-12-22 15:35:20"}
 ```
